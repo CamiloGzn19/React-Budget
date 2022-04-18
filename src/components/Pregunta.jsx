@@ -44,7 +44,7 @@ const Pregunta = ({
         <input
           type="number"
           className="u-full-width"
-          placeholder="coloca tu presupuesto"
+          placeholder="Coloca tu presupuesto"
           onChange={definirPresupuesto}
         />
         <input
